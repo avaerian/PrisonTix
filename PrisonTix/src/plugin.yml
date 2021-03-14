@@ -1,0 +1,20 @@
+name: PrisonTix
+version: 1.0
+author: AvaerianDev
+main: org.avaeriandev.prisontix.Main
+softdepends: [PlaceholderAPI]
+depend: [WorldGuard]
+
+commands:
+  commissaryui:
+  wardenui:
+  sc:
+  fw:
+  quest:
+  tix:
+    aliases: [tickets]
+  crate:
+    aliases: [crates]
+  commissary:
+  ticketshop:
+    aliases: [tixshop]
